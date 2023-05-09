@@ -1,6 +1,4 @@
-# prueba_analista
-
-librerias necesarias
+# librerias necesarias
 
  py -m pip install openpyxl
  py -m pip install pandas
